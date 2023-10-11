@@ -6,10 +6,10 @@ Welcome to my software engineering journey! In this README, I'd like to share my
 
 ## About Me
 
-- **Name:** [Jonathan]
-- **Location:** [United States]
-- **LinkedIn:** [https://www.linkedin.com/in/jonathan-streetman-483267287/]
-- **Portfolio:** [https://jrsportfolio.com]
+- **Name:** Jonathan
+- **Location:** United States
+- **LinkedIn:** https://www.linkedin.com/in/jonathan-streetman-483267287/
+- **Portfolio:** https://jrsportfolio.com
 
 ## My Passion for Software Engineering
 
