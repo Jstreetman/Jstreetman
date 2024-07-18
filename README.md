@@ -1,42 +1,24 @@
-# My Software Engineering Journey
+# Hola chicos
+I'm Jonathan, a software engineer. 
 
-## Introduction
+#### Goals:
+- Continue Learning and Building a Strong Portfolio
+- Get Hired as a Software Engineer
 
-Welcome to my software engineering journey! In this README, I'd like to share my passion for software engineering, my experiences, and my commitment to continuously improving my skills in this dynamic field.
-
-## About Me
-
-- **Name:** Jonathan
-- **Location:** United States
-- **LinkedIn:** https://www.linkedin.com/in/jonathan-streetman-483267287/
-- **Portfolio:** https://jrsportfolio.com
-
-## My Passion for Software Engineering
-
-Ever since I wrote my first "Hello, World!" program, I've been captivated by the world of software engineering. Here's why I'm so passionate about it:
-
-- **Problem Solving:** I love the challenge of solving complex problems and creating innovative solutions using code. It's like solving puzzles every day!
-
-- **Continuous Learning:** Software engineering is a field that's constantly evolving. I'm committed to staying up-to-date with the latest technologies and best practices to deliver high-quality software.
-
-- **Collaboration:** I believe in the power of collaboration. Working with diverse teams to build amazing software products is something I truly enjoy.
-
-- **Impact:** Software has the potential to make a positive impact on people's lives. Whether it's improving efficiency, enhancing user experiences, or solving real-world problems, I'm passionate about creating meaningful software.
+#### My Ideals:
+- 1% Better Every Day
+- Practice, Practice, Practice
+- Cultivating a Learning Mindset. Learn by Doing!
+- Constantly Challenging Yourself by Stepping Outside of Your Comfort Zone
 
 
-## What You Can Expect
 
-As you explore this repository and my work, you can expect:
-
-- **Quality Code:** I'm dedicated to writing clean, maintainable, and well-documented code.
-
-- **Innovation:** I'm always seeking innovative solutions to problems and exploring new technologies.
-
-- **Collaboration:** If you'd like to collaborate or have questions about my work, feel free to reach out.
-
-
-## Thank You
-
-Thank you for taking the time to learn more about my passion for software engineering. I look forward to connecting with you and embarking on exciting software adventures together.
-
-Happy Coding! 🚀
+#### Proficient with:
+![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
