@@ -3,8 +3,11 @@ I'm Jonathan, a software engineer.
 
 - My software engineering journey began in 2019 with Android app development using Android Studio. The instant I styled my first button in a web browser, I was completely captivated by programming. I quickly realized this was my calling—I loved the thrill of transforming a blank canvas into a digital masterpiece, and I knew I had to pursue this path.
 
-### Current Position:
-- Founder/Lead Software Engineer @NextTurn
+# Current Position:
+- Founder/Lead Software Engineer @NextTurn 
+- Empowering aspiring software engineers with real-world projects for hands-on experience and career growth.
+  
+#
 
 #### Goals:
 - Continue Learning and Building a Strong Portfolio
