@@ -1,9 +1,14 @@
-# Hola chicos
+# Greetings conrads !!!
 I'm Jonathan, a software engineer. 
+
+- My software engineering journey began in 2019 with Android app development using Android Studio. The instant I styled my first button in a web browser, I was completely captivated by programming. I quickly realized this was my calling—I loved the thrill of transforming a blank canvas into a digital masterpiece, and I knew I had to pursue this path.
+
+### Current Position:
+- Founder/Lead Software Engineer @NextTurn
 
 #### Goals:
 - Continue Learning and Building a Strong Portfolio
-- Get Hired as a Software Engineer
+- Become a jack of all coding languages.
 
 #### My Ideals:
 - 1% Better Every Day
