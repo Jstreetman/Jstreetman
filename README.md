@@ -8,7 +8,7 @@ I'm Jonathan, a software engineer.
 - Empowering aspiring software engineers with real-world projects for hands-on experience and career growth.
   
 #
-
+ 
 #### Goals:
 - Continue Learning and Building a Strong Portfolio
 - Become a jack of all coding languages.
