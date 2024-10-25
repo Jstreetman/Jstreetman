@@ -1,4 +1,4 @@
-# Greetings !!!
+### Greetings !!!
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5001&pause=1000&color=3b82f6&width=435&lines=Welcome+to+my+GitHub+Profile++%F0%9F%91%8B;I'm+Jonathan+Streetman+;I'm+a+Software+Engineer" alt="Typing SVG" /></a>
 
 - My software engineering journey began in 2019 with Android app development using Android Studio. The instant I styled my first button in a web browser, I was completely captivated by programming. I quickly realized this was my calling—I loved the thrill of transforming a blank canvas into a digital masterpiece, and I knew I had to pursue this path.
